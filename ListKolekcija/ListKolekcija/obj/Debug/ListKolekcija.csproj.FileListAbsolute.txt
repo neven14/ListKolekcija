@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\bin\Debug\ListKolekcija.exe.config
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\bin\Debug\ListKolekcija.exe
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\bin\Debug\ListKolekcija.pdb
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\obj\Debug\ListKolekcija.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\obj\Debug\ListKolekcija.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\obj\Debug\ListKolekcija.exe
+C:\Users\Gordana\source\repos\ListKolekcija\ListKolekcija\obj\Debug\ListKolekcija.pdb
